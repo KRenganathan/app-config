@@ -1,0 +1,8 @@
+x : y
+spring
+  profile : dev
+    x : a
+
+spring
+  profile : test
+    x : b
